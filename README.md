@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @finnik74
+- 👋 Hi, I’m @finnik74, a student of University of Liverpool.
 - 👀 I’m interested in ML and software development
 - 🌱 I’m currently learning Django and Vue-cli
 
